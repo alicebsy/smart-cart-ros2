@@ -74,6 +74,6 @@
 ---
 
 ## 8. 데모 및 시연 링크
-* **YouTube 최종 구동 데모 영상**: [https://youtu.be/A6RttHGQd1o?si=rGckJ6fXw_7q45kG](https://www.youtube.com/watch?v=A6RttHGQd1o)
-* **YouTube 최종 발표 영상**: [https://youtu.be/A6RttHGQd1o?si=rGckJ6fXw_7q45kG](https://www.youtube.com/watch?v=4W_OzlCRSqA)
+* **YouTube 최종 구동 데모 영상**:[https://www.youtube.com/watch?v=A6RttHGQd1o]
+* **YouTube 최종 발표 영상**: [https://www.youtube.com/watch?v=4W_OzlCRSqA]
 * **GitHub 소스코드 저장소 주소**: https://github.com/alicebsy/smart-cart-ros2
